@@ -8,9 +8,10 @@ Data: 02.06.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELE18Q5S1
+Imię i nazwisko studenta: Korneliusz Duduś 
+Numer albumu: 71972  
+Grupa studencka: WEL18EQ5S1
+
 
 # Odpowiedzi do pytań z instrukcji
 
