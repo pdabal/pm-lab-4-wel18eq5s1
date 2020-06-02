@@ -15,3 +15,4 @@ Grupa studencka: WELE18Q5S1
 # Odpowiedzi do pytań z instrukcji
 
 ...
+
