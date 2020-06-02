@@ -12,6 +12,7 @@ Imię i nazwisko studenta: Korneliusz Duduś
 Numer albumu: 71972  
 Grupa studencka: WEL18EQ5S1
 
+
 # Odpowiedzi do pytań z instrukcji
 
 ...
