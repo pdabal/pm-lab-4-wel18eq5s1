@@ -14,6 +14,6 @@ int main(void){
   }
 }
 
-ISR(TIMER0_OVF_vect) {
+ISR(TIMER0_OVF_vect) { 
   PORTC &= ~(1 << PORTC1);
 }
