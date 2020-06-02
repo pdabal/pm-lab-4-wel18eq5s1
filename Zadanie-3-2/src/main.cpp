@@ -10,7 +10,7 @@ int main(void){
 
   while(1){
 
-}
+ }
 }
 ISR(TIMER1_OVF_vect){
 
