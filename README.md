@@ -14,4 +14,4 @@ Grupa studencka: WEL18EQ5S1
 
 # Odpowiedzi do pytań z instrukcji
 
-...
+Koniec zajęć
